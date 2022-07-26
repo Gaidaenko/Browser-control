@@ -3,7 +3,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium;
 using System.Threading;
 
-namespace control
+namespace Fill_browser_page
 {
     public class AuthBrowser
     {

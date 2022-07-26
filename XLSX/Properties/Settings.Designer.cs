@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace control.Properties {
+namespace Fill_browser_page.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

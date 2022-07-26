@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{92D6B1DF-C8A8-40DB-9CD7-230F79583CDF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>control</RootNamespace>
-    <AssemblyName>Browser_control</AssemblyName>
+    <RootNamespace>Fill_browser_page</RootNamespace>
+    <AssemblyName>Fill_browser_page</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

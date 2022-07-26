@@ -1,5 +1,5 @@
 ﻿
-namespace control
+namespace Fill_browser_page
 {
     partial class Form1
     {

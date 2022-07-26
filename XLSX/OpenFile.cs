@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace control
+namespace Fill_browser_page
 {
     class OpenFile
     {

@@ -13,7 +13,7 @@ using OpenQA.Selenium.Support.UI;
 using System.Drawing;
 using CsQuery.ExtensionMethods.Internal;
 
-namespace control
+namespace Fill_browser_page
 {
     public partial class Form1 : Form
     {       

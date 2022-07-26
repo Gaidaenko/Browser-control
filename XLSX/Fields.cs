@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace control
+namespace Fill_browser_page
 {
     public static class Fields
     {
